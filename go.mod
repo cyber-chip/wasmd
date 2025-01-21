@@ -48,7 +48,7 @@ require (
 	github.com/cosmos/ibc-go/modules/apps/callbacks v0.0.0-20240902073039-8983f91e519f
 	github.com/cosmos/ibc-go/modules/capability v1.0.1
 	github.com/cosmos/ibc-go/v9 v9.0.2
-	github.com/distribution/reference v0.5.0
+	github.com/distribution/reference v0.6.0
 	github.com/rs/zerolog v1.33.0
 	github.com/spf13/viper v1.19.0
 	golang.org/x/sync v0.10.0
